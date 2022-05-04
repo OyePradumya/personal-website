@@ -9251,7 +9251,7 @@ textarea.form-control {
 
 @media (max-width: 1199.98px) {
   .ftco-counter {
-    background-position: center center !important; } }
+    background-position: center center !important; }}
 
 .ftco-counter .block-18 {
   display: block;
@@ -9490,6 +9490,20 @@ textarea.form-control {
 
 .comment-form-wrap {
   clear: both; }
+
+  .mouse-wheel {
+    height: 50px;
+    margin: 20px 90px 0;
+    display: block;
+    width: 30px;
+    background: transparent;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    color: #ffffff;
+    font-size: 30px; 
+  } 
 
 .comment-list {
   padding: 0;
